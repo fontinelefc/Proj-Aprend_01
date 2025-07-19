@@ -1,0 +1,32 @@
+Relação de Alunos com pendências em notas das Matérias de Marketing.
+ - Tecnologias AVA      - MARIA ISABELLE NASCIMENTO DA SILVA - ava1
+ 			- MARIA GRAZIELE SOUSA SILVA         - ava1 e 2
+ 			- ANA CRISTINA DE FARIAS LIMA        - ava1 e 2
+ 			- ANA CLARISSA PEREIRA RODRIGUES     - ava1
+ 			
+- Fundamentos da Administração
+				- VALDINEI RODRIGUES DA SILVA                   - ava1
+				- JOÃO PAULO DA SILVA MONTEIRO                  - ava1 e 2
+				- maria jaylla da conceição carvalho da silva   - ava2
+				- MATHEUS GOMES DE SOUSA			- ava2
+				- JOSE FELIPE DO NASCIMENTO GOMES		- ava2 - ok
+				- MáRCIO DAVI DE SOUSA OLIVEIRA			- ava1 e 2
+				- akyles danniel de sousa câncio		- ava2
+				- ANA CRISTINA DE FARIAS LIMA			- ava2
+				- ANA CLARISSA PEREIRA RODRIGUES		- ava1
+
+- INTRODUÇÃO AO MARKETING	
+				- RAYLANE SILVA ARAUJO				- ava1 e 2
+				- VALDINEI RODRIGUES DA SILVA			- ava1 e 2
+				- JOÃO PAULO DA SILVA MONTEIRO			- ava2
+				- akyles danniel de sousa câncio		- ava2
+				- ANA CLARISSA PEREIRA RODRIGUES		- ava2
+				
+- REDAÇÃO PARA O MARKETING DIGITAL
+				- RAYLANE SILVA ARAUJO				- ava1 e 2
+				- KELSON RODRIGUES DE ALMEIDA			- ava2
+				- JOÃO PAULO DA SILVA MONTEIRO			- ava1 e 2
+				- MARIA GRAZIELE SOUSA SILVA			- ava2
+				- MáRCIO DAVI DE SOUSA OLIVEIRA			- ava1 e 2
+				- ANA CRISTINA DE FARIAS LIMA			- ava2
+				- ANTôNIA CLAUDIELY DE SOUSA ARAúJO		- ava2
